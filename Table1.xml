@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Betruc</Author>
+  <LastAuthor>stranger</LastAuthor>
+  <Created>2024-09-08T13:05:15Z</Created>
+  <LastSaved>2024-09-08T12:55:45Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path> </Path>
+   <SheetName> </SheetName>
+   <SheetName> </SheetName>
+  </SupBook>
+  <WindowHeight>6735</WindowHeight>
+  <WindowWidth>9915</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <HidePivotTableFieldList/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <FutureVer>11</FutureVer>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="49.5"/>
+   <Column ss:Width="85.5"/>
+   <Column ss:Width="56.25"/>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">region_id</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">region_name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">population</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">North Region</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">500000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">South Region</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">300000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">East Region</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">200000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">West Region</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">150000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Central Region</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">600000</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mountain Region</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">250000</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="8" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="51"/>
+   <Column ss:Width="92.25"/>
+   <Column ss:Width="70.5"/>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">facility_id</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">facility_name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">facility_type</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">region_id</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">is_rural</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">North Clinic</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Clinic</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">South Hospital</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hospital</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">East Health Center</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Health Center</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">West Hospital</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hospital</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Central Clinic</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Clinic</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Mountain Clinic</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Clinic</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Central Hospital</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Hospital</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>15</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet4">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="9" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="53.25"/>
+   <Column ss:Width="71.25"/>
+   <Column ss:Index="5" ss:Width="51"/>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">patient_id</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">patient_name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">age</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">gender</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">facility_id</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Alice</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Female</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Bob</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Male</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Charlie</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Male</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Diana</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Female</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Emily</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Female</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Frank</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Male</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Grace</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Female</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Henry</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Male</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>8</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x2:MapInfo x2:HideInactiveListBorder="false"
+  x2:SelectionNamespaces="xmlns:ns1='urn:schemas-microsoft-com:office:spreadsheet'">
+  <x2:Schema x2:ID="Schema1"
+   x2:Namespace="urn:schemas-microsoft-com:office:spreadsheet"><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ns0="urn:schemas-microsoft-com:office:spreadsheet"><xsd:element nillable="true" name="Workbook"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" name="Worksheet" form="qualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" name="Table" form="qualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Column" form="qualified"><xsd:complexType><xsd:attribute ref="ns0:Index"></xsd:attribute><xsd:attribute ref="ns0:AutoFitWidth"></xsd:attribute><xsd:attribute ref="ns0:Width"></xsd:attribute></xsd:complexType></xsd:element><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Row" form="qualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Cell" form="qualified"><xsd:complexType><xsd:sequence minOccurs="0"><xsd:element minOccurs="0" nillable="true" name="Data" form="qualified"><xsd:complexType><xsd:simpleContent><xsd:extension base="xsd:string"><xsd:attribute ref="ns0:Type"></xsd:attribute></xsd:extension></xsd:simpleContent></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element></xsd:sequence><xsd:attribute ref="ns0:Name"></xsd:attribute></xsd:complexType></xsd:element></xsd:sequence></xsd:complexType></xsd:element><xsd:attribute name="Name" type="xsd:string"></xsd:attribute><xsd:attribute name="Index" type="xsd:integer"></xsd:attribute><xsd:attribute name="AutoFitWidth" type="xsd:integer"></xsd:attribute><xsd:attribute name="Width" type="xsd:integer"></xsd:attribute><xsd:attribute name="Type" type="xsd:string"></xsd:attribute></xsd:schema></x2:Schema>
+  <x2:Map x2:ID="Workbook_Map" x2:SchemaID="Schema1" x2:RootElement="Workbook">
+  </x2:Map>
+ </x2:MapInfo>
+ <x2:Binding x2:ID="Binding1" x2:LoadMode="normal">
+  <x2:MapID>Workbook_Map</x2:MapID>
+<udc:DataSource MajorVersion="1" MinorVersion="0" xmlns:udc="http://schemas.microsoft.com/data/udc">
+  <udc:Type Type="XMLFile" MajorVersion="1" MinorVersion="0"/>
+  <udc:Name>Binding1</udc:Name>
+  <udc:ConnectionInfo Purpose="Query">
+    <udcxf:File xmlns:udcxf="http://schemas.microsoft.com/data/udc/xmlfile">C:\Users\stranger\Documents\soft_dev_assignments\Table2.xml</udcxf:File>
+  </udc:ConnectionInfo>
+</udc:DataSource>
+ </x2:Binding>
+</Workbook>
